@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sex, Drugs, Rock & Roll: Photography from the 70's]]></title>
         <description><![CDATA[Sex, Drugs, Rock & Roll: Photography from the 70's]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/childrenoftheworld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 16:52:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 23:16:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/childrenoftheworld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Children ]]></title>
+            <description><![CDATA[<article><h1>Children </h1><p>Children of the World </p></article>]]></description>
+            <link>https://thegrid.ai/childrenoftheworld/children/index.html</link>
+            <guid isPermaLink="false">eba42be3-5c70-46a0-a6b2-dddf93d85a26</guid>
+            <pubDate>Sun, 20 Dec 2015 23:16:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid]]></title>
             <description><![CDATA[<article><h1>The Grid</h1><p></p></article>]]></description>
