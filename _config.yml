@@ -1,6 +1,6 @@
 name: ChildrenOfTheWorld
 favicon: null
-layout_spectrum: 0.12858745432458818
+layout_spectrum: 0.88864
 typography_spectrum: 0.7333656165283173
 title: "Sex, Drugs, Rock & Roll: Photography from the 70's"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#815c5b'
     - '#9d8588'
     - '#4e6275'
-  brandStrength: 0.5890258450526744
-  lightness: 0.625
-  saturation: 0.4375
-  rhythmicContrast: 0.75
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
